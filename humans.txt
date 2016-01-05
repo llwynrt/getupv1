@@ -1,0 +1,24 @@
+/* TEAM */
+Développeur : Marie-Lyse Briffaud
+Twitter: marie_lyseB
+Location: Angers, France
+
+Directeur de la publication: Mickaël Ruau
+Twitter: @mickaelruau
+Location: Angers, France
+    							
+/* THANKS */
+François Amisse, pour son implication dans GetUP
+site: http://reussir-son-entreprise.fr/
+Twitter: @famisse
+                                
+* SITE */
+Last update:  2015/10/21
+Standards: HTML5, CSS3
+Components: CodeIgniter, Bootstrap
+Software: SublimText, Netbeans
+       
+                            
+
+
+                    
